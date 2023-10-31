@@ -23,10 +23,10 @@ What I expect in your repo:
 
 X. A readme with:   Your thoughts about the code. What makes it amazing code. Or what makes it ok code. Or what makes it terrible code. How would you have done it. Thoughts on formatting, structure, logic.. The more details that you can provide about the code (what's terrible about it or/and what is good about it) the easier for us to assess your coding style, mentality etc
 
-And 
+Ans: the code looks but its require some minor but important changes regarding query eficiency and error handling i dont know in this whole project in which way you handle errors so i used conditions at some places to handle some errors,Repository pattren is used in this projects but in my personal opinion its best for dealing with complex logics, the terrible is there is much error handling.
 
 Y.  Refactor it if you feel it needs refactoring. The more love you put into it. The easier for us to asses your thoughts, code principles etc
-
+Ans: I refector the code as i get time to manage it i just focus on database processes get data or null or empty response i give attention to that code that give errors on some places and also used eloquont method to save time and efficency  
 
 IMPORTANT: Make two commits. First commit with original code. Second with your refactor so we can easily trace changes. 
 
